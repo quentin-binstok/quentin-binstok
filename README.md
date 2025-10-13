@@ -15,7 +15,7 @@ My Github is for my personal projects. I'm going to put here the results of what
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=quentin-binstok" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=quentin-binstok&hide=prs,issues&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quentin-binstok&layout=compact&langs_count=8&card_width=320" />
