@@ -1,6 +1,6 @@
 # Hi, I'm Quentin 👋
 
-Hi, and welcome on my profile ! I'm Quentin. I'm in my first year of masters degree in engineering physics at [ULiège](https://www.uliege.be/).
+Hi, and welcome on my profile ! I'm Quentin. I'm in the first year of my master's degree in engineering physics at [ULiège](https://www.uliege.be/).
 
 ## What's here
 
