@@ -1,6 +1,6 @@
 # Hi, I'm Quentin 👋
 
-Hi, and welcome on my profile ! I'm Quentin. I'm in the first year of my master's degree in engineering physics at [ULiège](https://www.uliege.be/). Check out my academic projects on this [Gitlab](https://gitlab.uliege.be/Quentin.Binstok).
+Hi, and welcome on my profile ! I'm Quentin. I'm in the first year of my master's degree in engineering physics at [ULiège](https://www.uliege.be/). Check out my academic projects on this [Gitlab](https://gitlab.uliege.be/Quentin.Binstok). I also have a Forgejo instance, for more informal projects, available at [The Forge](https://git.naepho.dev/naepho).
 
 ## What's here
 
@@ -14,8 +14,8 @@ My Github is for my personal projects. I'm going to put here the results of what
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=quentin-binstok&hide=prs,issues&include_all_commits=true&theme=dark" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=quentin-binstok&hide=prs,issues&include_all_commits=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quentin-binstok&layout=compact&langs_count=8&card_width=320&theme=dark" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quentin-binstok&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
