@@ -1,10 +1,12 @@
 # Hi, I'm Quentin 👋
 
-Hi, and welcome on my profile ! I'm Quentin. I'm in the first year of my master's degree in engineering physics at [ULiège](https://www.uliege.be/). Check out my academic projects on this [Gitlab](https://gitlab.uliege.be/Quentin.Binstok). I also have a Forgejo instance, for more informal projects, available at [The Forge](https://git.naepho.dev/naepho).
+Hi, and welcome on my profile ! I'm Quentin. I'm in the first year of my master's degree in engineering physics at [ULiège](https://www.uliege.be/). Check out my academic projects on this [Gitlab](https://gitlab.uliege.be/Quentin.Binstok). I also have a Forgejo instance, on which I put my personal projects, available at [Naepho's forge](https://git.naepho.dev/naepho).
 
 ## What's here
 
-My Github is for my personal projects. I'm going to put here the results of whatever I get interested in. This could get quite varied quite rapidly !
+Not much. I mainly use [Naepho's forge](https://git.naepho.dev/naepho) as my main forge. However, I will mirror my main projects here.
+
+<!-- My Github is for my personal projects. I'm going to put here the results of whatever I get interested in. This could get quite varied quite rapidly !
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,3 +21,5 @@ My Github is for my personal projects. I'm going to put here the results of what
 <a href="https://github.com/anuraghazra/convoychat">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quentin-binstok&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+
+-->
