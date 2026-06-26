@@ -1,10 +1,8 @@
 # Hi, I'm Quentin 👋
 
-Hi, and welcome on my profile ! I'm Quentin. I'm in the first year of my master's degree in engineering physics at [ULiège](https://www.uliege.be/). Check out my academic projects on this [Gitlab](https://gitlab.uliege.be/Quentin.Binstok). I also have a Forgejo instance, on which I put my personal projects, available at [Naepho's forge](https://git.naepho.dev/naepho).
+Hi, and welcome on my profile ! I'm Quentin. I'm in the first year of my master's degree in engineering physics at [ULiège](https://www.uliege.be/). I'm mainly interested in computational physics and numerical methods.
 
-## What's here
-
-Not much. I mainly use [Naepho's forge](https://git.naepho.dev/naepho) as my main forge. However, I will mirror my main projects here.
+You might want to check out my [particle-in-cell code](https://github.com/quentin-binstok/PIC).
 
 <!-- My Github is for my personal projects. I'm going to put here the results of whatever I get interested in. This could get quite varied quite rapidly !
 
