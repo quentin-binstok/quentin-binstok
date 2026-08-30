@@ -1,6 +1,6 @@
 # Hi, I'm Quentin 👋
 
-Hi, and welcome on my profile ! I'm Quentin. I'm in the first year of my master's degree in engineering physics at [ULiège](https://www.uliege.be/). I'm mainly interested in computational physics and numerical methods.
+Hi, and welcome on my profile ! I'm Quentin. I'm in the second year of my master's degree in engineering physics at [ULiège](https://www.uliege.be/). I'm mainly interested in computational physics and numerical methods.
 
 You might want to check out my [particle-in-cell code](https://github.com/quentin-binstok/PIC).
 
